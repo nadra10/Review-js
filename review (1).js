@@ -21,6 +21,10 @@
 
 // 1.) Declare a variable
 
+
+
+
+
 // 2.) Change the value of this variable
 
 // 3.) Change the data type of this variable
